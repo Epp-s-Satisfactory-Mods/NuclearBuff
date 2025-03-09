@@ -1,0 +1,13 @@
+{
+    "Class": "/Game/FactoryGame/Buildable/Factory/GeneratorNuclear/Build_GeneratorNuclear.Build_GeneratorNuclear_C",
+    "Edits": [
+        {
+            "Property": "mPowerProduction",
+            "Value": 25000
+        },
+        {
+            "Property": "mSupplementalToPowerRatio",
+            "Value": 0.16
+        }
+    ]
+}
