@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
+	"VersionName": "1.0.1",
+	"SemVersion": "1.0.1",
 	"GameVersion": ">=383729",
 	"FriendlyName": "Nuclear Buff",
 	"Description": "Make nuclear power better. Like 10x better.",
